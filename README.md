@@ -58,7 +58,5 @@ To run the tests, head to the corresponding folder and run the following command
 ## Authors
 1. Avancha Naresh - MS20BTECH11005
 2. Thota Rohan - CS20BTECH11064
-3. Danda Sai Pravallika - CS20BTECH11013
-4. Mannam Sarandeep - CS20BTECH11030
 
 
